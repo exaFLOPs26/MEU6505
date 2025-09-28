@@ -9,7 +9,7 @@ CQL, IQL, TD3+BC, COMBO, RAMBO, MOBILE, CBOP, FQL
 RLPD, CAL-QL, FQL
 
 
-## 1 Meeting (9/28)
+## Meeting 1(9/28)
 - task: wiping
   
 - detail: Change the stiffness for wiping
